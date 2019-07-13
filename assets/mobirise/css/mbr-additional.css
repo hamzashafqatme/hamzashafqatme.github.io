@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#features1-9 H4 {
+  color: #990f0b;
+}
+#features1-9 P {
+  color: #090b42;
+}
+#footer1-3 P {
+  text-align: center;
+  color: #990f0b;
+}
+#dropdown-menu-2btn-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-4 .nav .link,
+#dropdown-menu-2btn-4 .dropdown-item {
+  font-size: 1.2em;
+  color: #05386b;
+}
+#dropdown-menu-2btn-4 .navbar,
+#dropdown-menu-2btn-4 .dropdown-menu {
+  background: #5cdb95;
+}
+#dropdown-menu-2btn-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-4 .dropdown-menu a:hover,
+#dropdown-menu-2btn-4 .dropdown-menu a:focus {
+  background: #4bd78a;
+}
+#dropdown-menu-2btn-4 .navbar-toggler {
+  color: #05386b;
+}
+#dropdown-menu-2btn-4 STRONG {
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#features1-8 H4 {
+  color: #05386b;
+}
+#slider-a H2 {
+  color: #ffffff;
+  text-align: left;
+  font-size: 25px;
+}
+#contacts3-b DIV {
+  color: #ffffff;
+}
+#contacts3-b P {
+  color: #ffffff;
+}
